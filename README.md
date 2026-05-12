@@ -1,4 +1,4 @@
-# YOLOv5 手勢辨識系統 (基於 HAGRID 資料集)
+# YOLOv5 手勢辨識系統
 
 本專案採用 YOLOv5 架構，針對 HAGRID (Hand Gesture Recognition Image Dataset) 資料集進行自定義模型訓練與推論分析。專案目標為建構一套具備即時辨識能力的手勢判定流程，並進行推論延遲 (Inference Latency) 與精準度 (mAP) 的效能評估。
 
