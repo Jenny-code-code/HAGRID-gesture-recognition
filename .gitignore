@@ -1,0 +1,17 @@
+# YOLOv5 模型權重檔
+*.pt
+*.weights
+
+# HAGRID 資料集與影像檔
+/dataset/
+/images/
+*.jpg
+*.png
+*.mp4
+
+# Python 暫存檔
+__pycache__/
+*.pyc
+
+# Mac 系統特有隱藏檔
+.DS_Store

@@ -1,0 +1,11 @@
+file,class_name,confidence,source_file
+like_01.jpg,like,0.975,3b85740c-b908-41ad-b6d2-6e46cb6b9576_jpg.rf.66ef0253ea9807fe73a8627cf93d36e9.jpg
+like_02.jpg,like,0.9744,2b26b394-bd5b-48df-9b47-44d8c33e7f48_jpg.rf.73881ba67998dcb94ad98efc0a83805a.jpg
+nogesture_01.jpg,nogesture,0.9423,0de5c743-07aa-495c-bd55-2bc3dc220a68_jpg.rf.35426070d4e644d3351c4897ab0c2367.jpg
+nogesture_02.jpg,nogesture,0.9354,2dada8eb-22a6-4a67-8b72-9c2d71b5149c_jpg.rf.8679f9e9781bbeca1e5d117e6fe4ad06.jpg
+ok_01.jpg,ok,0.9807,1bcc10a8-4292-4d2e-a4b0-08f8016e71b1_jpg.rf.9383a9c5c584ca33e9a71cbeac6af0aa.jpg
+ok_02.jpg,ok,0.9787,0e645326-05a1-463d-a3e0-04d073856f68_jpg.rf.8b4b98bfa735bd92b69ffe46e6d6aeca.jpg
+peace_01.jpg,peace,0.9717,1b3201ba-227f-4a83-8e72-82810c83474e_jpg.rf.d7eaac8020dc6789b43f316dff24b562.jpg
+peace_02.jpg,peace,0.9665,2ee8817a-e9b3-4d7d-92ad-cca521581f9c_jpg.rf.2619d5dac3327ab0ed17184611cad0aa.jpg
+stop_01.jpg,stop,0.9728,3a414c20-1394-44d5-be8c-f84988ddd9ec_jpg.rf.8e5c7ad7a6542b7058c7cef32031e927.jpg
+stop_02.jpg,stop,0.9724,0c442559-19f8-45e9-ac89-79a4026df2ab_jpg.rf.2c53501fdd1419ea26f0dfb2e9ea0d09.jpg

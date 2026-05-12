@@ -1,0 +1,14 @@
+path: datasets/HAGRID-YOLO
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names: ['like', 'nogesture', 'ok', 'peace', 'stop']
+
+roboflow:
+  workspace: humanoffice
+  project: hagrid-yolo
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/humanoffice/hagrid-yolo/dataset/4
